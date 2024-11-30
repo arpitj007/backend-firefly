@@ -91,7 +91,7 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-dist
+# dist #apparently vercel cant handle this
 
 # Gatsby files
 .cache/
