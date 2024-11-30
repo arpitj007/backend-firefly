@@ -25,7 +25,7 @@ then
 ```sh
 cd ~/{your-dir}/firefly/frontend
 pnpm i
-pnpm run dev
+pnpm start
 ```
 
 ## What to expect?
